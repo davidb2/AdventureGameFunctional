@@ -1,0 +1,11 @@
+C:\Users\brewc\Documents\Visual Studio 2015\Projects\TP\TP\bin\Debug\TP.XML
+C:\Users\brewc\Documents\Visual Studio 2015\Projects\TP\TP\bin\Debug\TP.dll
+C:\Users\brewc\Documents\Visual Studio 2015\Projects\TP\TP\bin\Debug\TP.pdb
+C:\Users\brewc\Documents\Visual Studio 2015\Projects\TP\TP\bin\Debug\FSharp.Core.dll
+C:\Users\brewc\Documents\Visual Studio 2015\Projects\TP\TP\bin\Debug\FSharp.Data.dll
+C:\Users\brewc\Documents\Visual Studio 2015\Projects\TP\TP\bin\Debug\FSharp.Data.pdb
+C:\Users\brewc\Documents\Visual Studio 2015\Projects\TP\TP\bin\Debug\FSharp.Data.xml
+C:\Users\brewc\Documents\Visual Studio 2015\Projects\TP\TP\bin\Debug\FSharp.Core.xml
+C:\Users\brewc\Documents\Visual Studio 2015\Projects\TP\TP\obj\Debug\TP.dll
+C:\Users\brewc\Documents\Visual Studio 2015\Projects\TP\TP\obj\Debug\TP.pdb
+c:\Users\brewc\Documents\Visual Studio 2015\Projects\TP\TP\obj\Debug\TP.fsprojResolveAssemblyReference.cache
